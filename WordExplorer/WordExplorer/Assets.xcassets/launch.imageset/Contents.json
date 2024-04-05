@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "DALL·E 2024-03-25 16.14.54 - Design a visually appealing app launch screen featuring the phrase _Word Explorer_ prominently in the center. The background should be a blend of vibr copy.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "DALL·E 2024-03-25 16.14.54 - Design a visually appealing app launch screen featuring the phrase _Word Explorer_ prominently in the center. The background should be a blend of vibr copy 1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "DALL·E 2024-03-25 16.14.54 - Design a visually appealing app launch screen featuring the phrase _Word Explorer_ prominently in the center. The background should be a blend of vibr copy 2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
