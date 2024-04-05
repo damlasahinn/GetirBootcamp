@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "DALL·E 2024-04-05 17.42.03 - A scene showing a person using a delivery app on their smartphone, with the app's user-friendly interface prominently displayed. The image focuses on .jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "DALL·E 2024-04-05 17.42.03 - A scene showing a person using a delivery app on their smartphone, with the app's user-friendly interface prominently displayed. The image focuses on  1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "DALL·E 2024-04-05 17.42.03 - A scene showing a person using a delivery app on their smartphone, with the app's user-friendly interface prominently displayed. The image focuses on  2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
